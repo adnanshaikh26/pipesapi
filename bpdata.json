@@ -1,0 +1,312 @@
+[
+  {
+    "nb": 15,
+    "series": "Light",
+    "outside-diameter-mm-max": 21.4,
+    "outside-diameter-mm-min": 21,
+    "thickness-mm": 2,
+    "plain-end-kg-m": 0.947,
+    "screwed-socketed-kg-m": 0.956,
+    "ton-approx": 160
+  },
+  {
+    "nb": 20,
+    "series": "Light",
+    "outside-diameter-mm-max": 26.9,
+    "outside-diameter-mm-min": 26.4,
+    "thickness-mm": 2.3,
+    "plain-end-kg-m": 1.38,
+    "screwed-socketed-kg-m": 1.39,
+    "ton-approx": 110
+  },
+  {
+    "nb": 25,
+    "series": "Light",
+    "outside-diameter-mm-max": 33.8,
+    "outside-diameter-mm-min": 33.2,
+    "thickness-mm": 2.6,
+    "plain-end-kg-m": 1.98,
+    "screwed-socketed-kg-m": 2.0,
+    "ton-approx": 80
+  },
+  {
+    "nb": 32,
+    "series": "Light",
+    "outside-diameter-mm-max": 42.5,
+    "outside-diameter-mm-min": 41.9,
+    "thickness-mm": 2.6,
+    "plain-end-kg-m": 2.54,
+    "screwed-socketed-kg-m": 2.57,
+    "ton-approx": 61
+  },
+  {
+    "nb": 40,
+    "series": "Light",
+    "outside-diameter-mm-max": 48.4,
+    "outside-diameter-mm-min": 47.8,
+    "thickness-mm": 2.9,
+    "plain-end-kg-m": 3.23,
+    "screwed-socketed-kg-m": 3.27,
+    "ton-approx": 51
+  },
+  {
+    "nb": 50,
+    "series": "Light",
+    "outside-diameter-mm-max": 60.2,
+    "outside-diameter-mm-min": 59.6,
+    "thickness-mm": 2.9,
+    "plain-end-kg-m": 4.08,
+    "screwed-socketed-kg-m": 4.15,
+    "ton-approx": 37
+  },
+  {
+    "nb": 65,
+    "series": "Light",
+    "outside-diameter-mm-max": 76,
+    "outside-diameter-mm-min": 75.2,
+    "thickness-mm": 3.2,
+    "plain-end-kg-m": 5.71,
+    "screwed-socketed-kg-m": 5.83,
+    "ton-approx": 27
+  },
+  {
+    "nb": 80,
+    "series": "Light",
+    "outside-diameter-mm-max": 88.7,
+    "outside-diameter-mm-min": 87.9,
+    "thickness-mm": 3.2,
+    "plain-end-kg-m": 6.89,
+    "screwed-socketed-kg-m": 7.04,
+    "ton-approx": 24
+  },
+  {
+    "nb": 100,
+    "series": "Light",
+    "outside-diameter-mm-max": 113.9,
+    "outside-diameter-mm-min": 113,
+    "thickness-mm": 3.6,
+    "plain-end-kg-m": 9.75,
+    "screwed-socketed-kg-m": 10.28,
+    "ton-approx": 18
+  },
+  {
+    "nb": 15,
+    "series": "Medium",
+    "outside-diameter-mm-max": 21.7,
+    "outside-diameter-mm-min": 21.1,
+    "thickness-mm": 2.6,
+    "plain-end-kg-m": 1.2,
+    "screwed-socketed-kg-m": 1.22,
+    "ton-approx": 130
+  },
+  {
+    "nb": 20,
+    "series": "Medium",
+    "outside-diameter-mm-max": 27.2,
+    "outside-diameter-mm-min": 26.6,
+    "thickness-mm": 2.6,
+    "plain-end-kg-m": 1.56,
+    "screwed-socketed-kg-m": 1.57,
+    "ton-approx": 100
+  },
+  {
+    "nb": 25,
+    "series": "Medium",
+    "outside-diameter-mm-max": 34.2,
+    "outside-diameter-mm-min": 33.4,
+    "thickness-mm": 3.2,
+    "plain-end-kg-m": 2.41,
+    "screwed-socketed-kg-m": 2.43,
+    "ton-approx": 65
+  },
+  {
+    "nb": 32,
+    "series": "Medium",
+    "outside-diameter-mm-max": 42.9,
+    "outside-diameter-mm-min": 42.1,
+    "thickness-mm": 3.0,
+    "plain-end-kg-m": 3.1,
+    "screwed-socketed-kg-m": 3.13,
+    "ton-approx": 51
+  },
+  {
+    "nb": 40,
+    "series": "Medium",
+    "outside-diameter-mm-max": 48.8,
+    "outside-diameter-mm-min": 48,
+    "thickness-mm": 3.2,
+    "plain-end-kg-m": 3.57,
+    "screwed-socketed-kg-m": 3.61,
+    "ton-approx": 44
+  },
+  {
+    "nb": 50,
+    "series": "Medium",
+    "outside-diameter-mm-max": 60.8,
+    "outside-diameter-mm-min": 59.8,
+    "thickness-mm": 3.6,
+    "plain-end-kg-m": 5.03,
+    "screwed-socketed-kg-m": 5.1,
+    "ton-approx": 30
+  },
+  {
+    "nb": 65,
+    "series": "Medium",
+    "outside-diameter-mm-max": 76.6,
+    "outside-diameter-mm-min": 75.4,
+    "thickness-mm": 3.6,
+    "plain-end-kg-m": 6.43,
+    "screwed-socketed-kg-m": 6.55,
+    "ton-approx": 24
+  },
+  {
+    "nb": 80,
+    "series": "Medium",
+    "outside-diameter-mm-max": 89.5,
+    "outside-diameter-mm-min": 88.1,
+    "thickness-mm": 4.0,
+    "plain-end-kg-m": 8.37,
+    "screwed-socketed-kg-m": 8.54,
+    "ton-approx": 18
+  },
+  {
+    "nb": 100,
+    "series": "Medium",
+    "outside-diameter-mm-max": 114.9,
+    "outside-diameter-mm-min": 113.3,
+    "thickness-mm": 4.5,
+    "plain-end-kg-m": 12.2,
+    "screwed-socketed-kg-m": 12.5,
+    "ton-approx": 14
+  },
+  {
+    "nb": 125,
+    "series": "Medium",
+    "outside-diameter-mm-max": 140.6,
+    "outside-diameter-mm-min": 138.7,
+    "thickness-mm": 5,
+    "plain-end-kg-m": 16.6,
+    "screwed-socketed-kg-m": 17.1,
+    "ton-approx": 10
+  },
+  {
+    "nb": 150,
+    "series": "Medium",
+    "outside-diameter-mm-max": 166.1,
+    "outside-diameter-mm-min": 164.1,
+    "thickness-mm": 5,
+    "plain-end-kg-m": 19.7,
+    "screwed-socketed-kg-m": 20.3,
+    "ton-approx": 7
+  },
+  {
+    "nb": 15,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 21.7,
+    "outside-diameter-mm-min": 21.1,
+    "thickness-mm": 3.2,
+    "plain-end-kg-m": 1.44,
+    "screwed-socketed-kg-m": 1.45,
+    "ton-approx": 110
+  },
+  {
+    "nb": 20,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 27.2,
+    "outside-diameter-mm-min": 26.6,
+    "thickness-mm": 3.2,
+    "plain-end-kg-m": 1.87,
+    "screwed-socketed-kg-m": 1.88,
+    "ton-approx": 80
+  },
+  {
+    "nb": 25,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 34.2,
+    "outside-diameter-mm-min": 33.4,
+    "thickness-mm": 4.0,
+    "plain-end-kg-m": 2.94,
+    "screwed-socketed-kg-m": 2.96,
+    "ton-approx": 55
+  },
+  {
+    "nb": 32,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 42.9,
+    "outside-diameter-mm-min": 42.1,
+    "thickness-mm": 4.0,
+    "plain-end-kg-m": 3.8,
+    "screwed-socketed-kg-m": 3.83,
+    "ton-approx": 44
+  },
+  {
+    "nb": 40,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 48.8,
+    "outside-diameter-mm-min": 48,
+    "thickness-mm": 4.0,
+    "plain-end-kg-m": 4.38,
+    "screwed-socketed-kg-m": 4.42,
+    "ton-approx": 37
+  },
+  {
+    "nb": 50,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 60.8,
+    "outside-diameter-mm-min": 59.8,
+    "thickness-mm": 4.5,
+    "plain-end-kg-m": 6.19,
+    "screwed-socketed-kg-m": 6.26,
+    "ton-approx": 27
+  },
+  {
+    "nb": 65,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 76.6,
+    "outside-diameter-mm-min": 75.4,
+    "thickness-mm": 4.5,
+    "plain-end-kg-m": 7.93,
+    "screwed-socketed-kg-m": 8.05,
+    "ton-approx": 20
+  },
+  {
+    "nb": 80,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 89.5,
+    "outside-diameter-mm-min": 88.1,
+    "thickness-mm": 5,
+    "plain-end-kg-m": 10.3,
+    "screwed-socketed-kg-m": 10.5,
+    "ton-approx": 16
+  },
+  {
+    "nb": 100,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 114.9,
+    "outside-diameter-mm-min": 113.3,
+    "thickness-mm": 5.4,
+    "plain-end-kg-m": 14.5,
+    "screwed-socketed-kg-m": 14.8,
+    "ton-approx": 12
+  },
+  {
+    "nb": 125,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 114.6,
+    "outside-diameter-mm-min": 138.7,
+    "thickness-mm": 5.4,
+    "plain-end-kg-m": 17.9,
+    "screwed-socketed-kg-m": 18.4,
+    "ton-approx": 10
+  },
+  {
+    "nb": 150,
+    "series": "Heavy",
+    "outside-diameter-mm-max": 166.1,
+    "outside-diameter-mm-min": 164.1,
+    "thickness-mm": 5.4,
+    "plain-end-kg-m": 21.3,
+    "screwed-socketed-kg-m": 21.9,
+    "ton-approx": 7
+  }
+]
